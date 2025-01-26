@@ -1,4 +1,4 @@
-module github.com/xmppo/go-xmpp
+module github.com/selfhoster1312/go-xmpp
 
 go 1.21.5
 
